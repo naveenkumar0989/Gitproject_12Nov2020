@@ -1,1 +1,2 @@
-This is sample file.This file is used for rebasing.
+This is sample file.Used to practise the git commands.
+
